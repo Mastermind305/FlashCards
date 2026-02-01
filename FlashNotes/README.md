@@ -34,7 +34,7 @@ Flash Notes is an interactive document assistant that leverages Retrieval-Augmen
 #### 1. Clone the Repository
 
 ```bash
-
+git clone https://github.com/Mastermind305/FlashCards.git
 cd FlashNotes
 ```
 
@@ -137,5 +137,6 @@ pip install -r requirements.txt
 ## Demo
 
 https://github.com/user-attachments/assets/0a2ba9d2-5eed-40db-9833-83f311540d45
+
 
 
